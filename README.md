@@ -14,7 +14,7 @@ A complete **Federated Learning (FL) system with Differential Privacy (DP)** for
 1. **Muskan Abdul Aziz** - NNM22CS104
 2. **Rakshith PR** - NNM23CS507
 3. **Yathish** - NNM23CS517
-4. **Adaline**
+4. **Adaline** - NNM22CS214
 
 **Mentor**: Mr. Pawan Hegde  
 **Institution**: Department of Computer Science & Engineering, NMAM Institute Of Technology, Nitte
