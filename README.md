@@ -11,9 +11,9 @@ A complete **Federated Learning (FL) system with Differential Privacy (DP)** for
 
 ## 👥 Team Members
 
-1. **Rakshith PR** - NNM23CS507
-2. **Yathish** - NNM23CS517
-3. **Muskan**
+1. **Muskan Abdul Aziz** - NNM22CS104
+2. **Rakshith PR** - NNM23CS507
+3. **Yathish** - NNM23CS517
 4. **Adaline**
 
 **Mentor**: Mr. Pawan Hegde  
